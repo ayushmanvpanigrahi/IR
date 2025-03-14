@@ -1,0 +1,3 @@
+A lazy dog lies in the sun while a quick brown fox jumps over it.
+This is another example of a pangram in English.
+It also contains all the letters of the alphabet.
